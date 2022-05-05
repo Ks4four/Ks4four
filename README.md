@@ -14,6 +14,7 @@ Here is a list from some albums impressed me, and one song from them impressed m
 - **Weak** _AJR - The Click (Deluxe Edition)_
 - **21** _AREA21 - Greatest Hits Vol. 1_
 - **untitled** _Yikes, bitbird create together vol.1_
+- **kocham cię** _Shwirl - (bitbird) create together vol.2_
 - **Holocene** _Bon Iver - Bon Iver_
 - **Skinny Love** _Bon Iver - For Emma, Forever Ago_
 - **Yi** _Bon Iver - i,i_
