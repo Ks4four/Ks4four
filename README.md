@@ -1,5 +1,9 @@
-Hi, I’m @Ks4four, AKA 
-- I'm not a programmer. I only know markdown.
+<h1 align="center">
+ Ksfour </h1>
+
+AKA ___@Ks4four___ _or_ ___Ks4___ 
+- I always work with [Beelzemon](https://wikimon.net/Beelzebumon).
+- I only know markdown.
 - I love music.
 ![图片](https://user-images.githubusercontent.com/78544646/166974220-47d3c15a-50b4-427f-848d-9698f1ffb500.png)
 
