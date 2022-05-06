@@ -45,3 +45,4 @@ Here is a list from some albums impressed me, and one song from them impressed m
 - **sometimes it’s scary but it’s still just you and me (LL Mix)** _Leaving Laurel - Leaving Laurel_
 - **Wait** _M83 - Hurry Up, We're Dreaming_
 - **Corners Of The Earth** _ODESZA - A Moment Apart (Deluxe Edition)_
+- **Don't Fight It** _WAVEDASH - World Famous Tour_
