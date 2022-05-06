@@ -27,6 +27,7 @@ Here is a list from some albums impressed me, and one song from them impressed m
 - **One Last Goodbye** _Dan Gibson's Solitudes - Forest Cello_
 - **All I Want** _Dawn Golden - Still Life_
 - **Task Failed** _Versa, Knights of the Round Table Vol. 5_
+- **FORΞVΞR** _Don Diablo - FORΞVΞR (DΞLUXΞ ΞDITION)_
 - **Put It On For Me** _Don Diablo - FUTURE (Deluxe Edition)_
 - **Back When (1997)** _Droeloe - A Matter Of Perspective_
 - **Opus** _Eric Prydz - Opus_
@@ -35,3 +36,12 @@ Here is a list from some albums impressed me, and one song from them impressed m
 - **Mud** _Flume - Hi This Is Flume_
 - **Die Internationale (Live)** _Hannes Wader - Hannes Wader singt Arbeiterlieder_
 - **Bug Thief** _Iglooghost - Neō Wax Bloom_
+- **Angel (Lonely Prelude) + Lonely** _ILLENIUM - ASCEND_
+- **I See You** _ILLENIUM - Fallen Embers (Deluxe Version)_
+- **Fireworks** _Jerry Folk - Dotted Red_
+- **Emerald Rush** _Jon Hopkins - Singularity_
+- **IM GONE** _Joyryde - BRAVE_
+- **Trip To Mars** _Just a Gent - Planet Oasis_
+- **sometimes it’s scary but it’s still just you and me (LL Mix)** _Leaving Laurel - Leaving Laurel_
+- **Wait** _M83 - Hurry Up, We're Dreaming_
+- **Corners Of The Earth** _ODESZA - A Moment Apart (Deluxe Edition)_
