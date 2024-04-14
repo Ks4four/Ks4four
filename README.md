@@ -21,5 +21,5 @@ It also known as **Ksfour**, or sometimes as **Ks4four** in social media.
 
 ## Links
 
-- [**Twitter**](https://twitter.com/Ks4four): Explicitly **N**ot **S**afe **F**or **Wo**rk
-- [**AO3**](https://archiveofourown.org/users/Ks4): *Empty*
+- [**Twitter**](https://twitter.com/Ks4four) (Explicitly **N**ot **S**afe **F**or **Wo**rk)
+- [**AO3**](https://archiveofourown.org/users/Ks4) (*Empty*)
