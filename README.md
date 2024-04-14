@@ -17,11 +17,15 @@ Ks4 aspires to be an erotic writer in English.
 
 ### Anki
 
-- Ks4 does Anki.
+Ks4 does Anki.
 
 ### Japanese
 
-- Ks4 knows Japanese but stopped learning it.
+Ks4 knows Japanese but stopped learning it.
+
+### Chinese
+
+Ks4 knows a lot of Chinese, but they learned it for political purposes, not for erotica.
 
 
 ## Etymology
