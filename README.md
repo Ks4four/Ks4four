@@ -1,12 +1,6 @@
 # Ks4
 
-This document serves as the main page for Ks4.
-
-## Etymology
-
-The term "Ks4" does not have a formal etymology. It originated from a random combination of characters typed by the creator when they were eight years old.
-
-It is also known as **Ksfour**, or sometimes as **Ks4four** in social media.
+This document serves as the main page for Ks4. It is also known as **Ksfour**, or sometimes as **Ks4four** in social media.
 
 ## Usage
 
@@ -28,6 +22,11 @@ Ks4 aspires to be an erotic writer in English.
 ### Japanese
 
 - Ks4 knows Japanese but stopped learning it.
+
+
+## Etymology
+
+The term "Ks4" does not have a formal etymology. It originated from a random combination of characters typed by the creator when they were eight years old.
 
 ## Links
 
