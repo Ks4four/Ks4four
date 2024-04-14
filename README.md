@@ -12,7 +12,7 @@ Ks4 aspires to be an erotic writer in English.
     - For Asians: Ks4 doesn't fix top or bottom for these two. Please be careful when reading their writing.
 - Writing tool is [Obsidian](https://obsidian.md/).
 - Writing is done in limited Markdown, only utilizing **bold**, *italic*, and ***bolditalic***.
-- Ks4 has no original characters and is not interested in creating any.
+- Ks4 has no original characters (digimons/tamers) and is not interested in creating any.
 - Ks4 can't handle writing about love due to being Asexual <img src="https://raw.githubusercontent.com/stephfuchs/queer-flags-as-svg/main/pride-flags/a-sexuality.svg" style="height: 1em; width: auto;">.
 
 ### Anki
