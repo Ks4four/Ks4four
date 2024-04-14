@@ -1,8 +1,8 @@
 # Ks4
 
-This document serves as the main page for Ks4. They are also known as **Ksfour**, or sometimes as **Ks4four** in social media.
+***This document is for social purposes. Ks4 is not a software programmer or developer.***
 
-Ks4 is not a software programmer or developer. This document is for social purposes.
+This document serves as the main page for Ks4. They are also known as **Ksfour**, or sometimes as **Ks4four** in social media.
 
 ## Features
 
