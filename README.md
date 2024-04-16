@@ -40,5 +40,6 @@ The term "Ks4" does not have a formal etymology. It originated from a random com
 
 ## Links
 
-- [**Twitter**](https://twitter.com/Ks4four) (Explicitly **N**ot **S**afe **F**or **W**rk)
+- [**Twitter**](https://twitter.com/Ks4four) mainly for social purposes.
 - [**AO3**](https://archiveofourown.org/users/Ks4) (*Empty*)
+- [**Bluesky**](https://bsky.app/profile/ksfour.bsky.social) is for erotica drafts.
