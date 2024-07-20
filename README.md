@@ -15,7 +15,7 @@ Ks4 is proficient in English, but they are still learning. Once learning is fini
 - They can currently write basic and simple erotica.
   - Primarily focusing on [**Beelzemon**](https://wikimon.net/Beelzebumon) and [**Gallantmon**](https://wikimon.net/Dukemon).
     - **For Asians**: Ks4 doesn't specify top or bottom for these two. *Please be careful when reading their writing.*
-  - Writing tool is [neovim](https://github.com/neovim/neovim) on [💤 lazy.nvim](https://github.com/folke/lazy.nvim), using [**Obsidian**](https://obsidian.md/) for managing, and on Arch Linux <img src="./svg/arch.svg" style="height: 1em; width: auto;">.
+  - Writing tool is [neovim](https://github.com/neovim/neovim) on [💤 lazy.nvim](https://github.com/folke/lazy.nvim), using [**Obsidian**](https://obsidian.md/) for managing, and on ~~Arch Linux~~ Linux Mint.
   - Writing is done in limited Markdown, only utilizing **bold**, *italic*, and ***bolditalic***.
   - Ks4 has no original characters (digimons/tamers) and is not interested in creating any.
   - Ks4 can't handle writing about love due to being Asexual <img src="./svg/a-sexuality.svg" style="height: 1em; width: auto;">.
