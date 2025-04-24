@@ -1,1 +1,1 @@
-[nozomi](img/nozomi.jpg)
+![nozomi](img/nozomi.jpg)
