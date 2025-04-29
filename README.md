@@ -2,6 +2,8 @@
 
 *“This time of day is especially beautiful.” — Tachibana Nozomi, **Blue Archive***
 
+---
+
 Things:
 
 | zh-CN | en-US | ja-JP |
