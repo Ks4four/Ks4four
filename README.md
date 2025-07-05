@@ -12,4 +12,4 @@ Things:
 
 ---
 
-![A custom tokyonight colorset with nozomi.](img/nvim.png)
+![A custom tokyonight colorset with nozomi.](img/nvim.jpg)
