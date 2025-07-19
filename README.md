@@ -12,4 +12,9 @@ Things:
 
 ---
 
+![](img/colors/nozomi/nozomi-icon.png)![](img/colors/nozomi/nozomi-colors.png)
+
+![](img/colors/mon3tr/mon3tr-icon.png)![](img/colors/mon3tr/mon3tr-colors.png)
+
+
 ![A custom tokyonight colorset with nozomi.](img/nvim.jpg)
