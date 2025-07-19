@@ -12,6 +12,6 @@ Things:
 
 ---
 
-![](img/colors/nozomi/nozomi-icon.png)![](img/colors/nozomi/nozomi-colors.png)
+![](img/colors/nozomi/nozomi-icon.png)![](img/colors/nozomi/nozomi-color.png)
 
-![](img/colors/mon3tr/mon3tr-icon.png)![](img/colors/mon3tr/mon3tr-colors.png)
+![](img/colors/mon3tr/mon3tr-icon.png)![](img/colors/mon3tr/mon3tr-color.png)
