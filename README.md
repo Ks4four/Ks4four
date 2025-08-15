@@ -14,4 +14,4 @@ Things:
 
 ---
 
-[![nozomi-icon](https://raw.githubusercontent.com/Ks4four/aaa-palettes/main/themes/blue-archive_nozomi/assets/icon.png)![nozomi-strip](https://raw.githubusercontent.com/Ks4four/aaa-palettes/main/themes/blue-archive_nozomi/assets/strip.png)](https://github.com/Ks4four/aaa-palettes/blob/main/themes/blue-archive_nozomi/README.md)
+[![nozomi-icon](https://raw.githubusercontent.com/Ks4four/aaa-palettes/main/themes/blue-archive_nozomi/assets/icon.png)![nozomi-strip](https://raw.githubusercontent.com/Ks4four/aaa-palettes/main/themes/blue-archive_nozomi/assets/strip.svg)](https://github.com/Ks4four/aaa-palettes/blob/main/themes/blue-archive_nozomi/README.md)
