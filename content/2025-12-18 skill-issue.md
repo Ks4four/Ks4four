@@ -19,6 +19,6 @@ This month, Wayland development seemed to have matured, so I installed Fedora ag
 
 I haven't found a job yet. I realized I actually need to get one. But these jobs sometimes conflict with the time I spend messing with my computer (I don't play video games, see the other article). This makes me somewhat resentful of jobs that don't involve computers. This counts as a skill issue: I haven't got my mindset right.
 
-While I was at home tinkering with the PC, tweaking my Neovim config, my family came over to remind me to eat more fruit. Once, I opened a book written in Chinese, and a family member walked by and remarked, "Finally, something in Chinese that you can actually understand."
+While I was at home tinkering with the PC, tweaking my Neovim config, my family came over to remind me to eat more fruit. Once, I opened a book written in Chinese, and a family member walked by and remarked, "Finally, something in Chinese that I can actually understand."
 
 I asked myself: Am I truly happy playing with Linux, or tweaking Neovim configs, or learning these new concepts right now? The answer is no. But back then, the answer was yes. And back then, I never even wasted time asking myself that question.
