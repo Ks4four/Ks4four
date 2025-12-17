@@ -2,16 +2,22 @@
 
 ![Tachibana Nozomi, still in uniform, leans back at her desk and smiles contentedly.](img/nozomi.jpg)
 
-\*“This time of day is especially beautiful.” — Tachibana Nozomi, **Blue Archive\***
+*“This time of day is especially beautiful.” — Tachibana Nozomi, Blue Archive*
 
 ---
 
-Things:
+i stopped learning new concepts and i already don't know what coding is
 
-| zh-CN                                | en-US                                | ja-JP |
-| ------------------------------------ | ------------------------------------ | ----- |
-| [#1](w/zh-cn/2025-04-26T04.15.51.md) | [#1](w/en-us/2025-04-26T04.15.51.md) |       |
+get tired of ssg and other things i never understood so i deleted most of my repos
+
+writing mostly in simplified chinese doesn't mean it's meaningless. it's llm era now if anyone really needs to read my writings just ask ai
 
 ---
 
-[![nozomi-icon](https://raw.githubusercontent.com/Ks4four/aaa-palettes/main/themes/blue-archive_nozomi/assets/icon.png)![nozomi-strip](https://raw.githubusercontent.com/Ks4four/aaa-palettes/main/themes/blue-archive_nozomi/assets/strip.svg)](https://github.com/Ks4four/aaa-palettes/blob/main/themes/blue-archive_nozomi/README.md)
+## meta
+
+[skill issue (en_US)](/content/2025-12-18%20skill-issue.md), [why i started this blog (zh_CN)](/content/2025-08-30%20so-i-started-this-blog.md), [why not choose freedom (zh_CN)](/content/2025-09-05%20pursuing-freedom.md)
+
+## software
+
+[linux (en_US)](/content/2025-12-17%20linux.md)
