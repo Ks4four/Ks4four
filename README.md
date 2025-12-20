@@ -27,6 +27,6 @@ writing mostly in simplified chinese doesn't mean it's meaningless. it's llm era
 
 ## software
 
-things i gave up on
+stopped using these not for persuasive reasons, but for reasons that tangibly affect me
 
 [linux](/content/2025-12-17%20linux.md) (en_US), [emacs](/content/2025-12-21%20emacs.md) (en_US)
