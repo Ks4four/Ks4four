@@ -30,3 +30,7 @@ writing mostly in simplified chinese doesn't mean it's meaningless. it's llm era
 stopped using these not for persuasive reasons, but for reasons that tangibly affect me
 
 [linux](/content/2025-12-17%20linux.md) (en_US), [emacs](/content/2025-12-21%20emacs.md) (en_US)
+
+uses this (uses this concept: <https://usesthis.com/>):
+
+obsidian ([switching to emacs](/content/2025-12-21%20emacs.md#2025-10-31T16:41:22), [back from emacs](/content/2025-12-22%20obsidian.md#2025-12-22T01:54:00))
