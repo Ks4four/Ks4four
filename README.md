@@ -23,7 +23,7 @@ writing mostly in simplified chinese doesn't mean it's meaningless. it's llm era
 
 ## meta
 
-[skill issue](/content/2025-12-18%20skill-issue.md) (en_US), [why i started this blog](/content/2025-08-30%20so-i-started-this-blog.md) (zh_CN), [why not choose freedom](/content/2025-09-05%20pursuing-freedom.md) (zh_CN)
+[skill issue](/content/2025-12-18%20skill-issue.md) (en_US), [why i started this blog](/content/2025-08-30%20so-i-started-this-blog.md) (zh_CN), [why not choose freedom](/content/2025-09-05%20pursuing-freedom.md) (zh_CN), [opinion for vibe coding](/content/2025-12-24%20vibe-coding.md)
 
 ## software
 
