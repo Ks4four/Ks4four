@@ -33,4 +33,4 @@ stopped using these not for persuasive reasons, but for reasons that tangibly af
 
 uses this (uses this concept: <https://usesthis.com/>):
 
-obsidian ([switching to emacs](/content/2025-12-21%20emacs.md#2025-10-31T16:41:22), [back from emacs](/content/2025-12-22%20obsidian.md#2025-12-22T01:54:00))
+obsidian ([switching to emacs](/content/2025-12-21%20emacs.md#2025-10-31T16:41:22), [back from emacs](/content/2025-12-22%20obsidian.md#2025-12-22T01:54:00)), keymap ([zh_CN](/content/2025-12-26%20keymap.md), [en_US](/content/2025-12-30%20keymap-en.md))
