@@ -29,7 +29,7 @@ writing mostly in simplified chinese doesn't mean it's meaningless. it's llm era
 
 stopped using these not for persuasive reasons, but for reasons that tangibly affect me
 
-[linux](/content/2025-12-17%20linux.md) (en_US), [emacs](/content/2025-12-21%20emacs.md) (en_US)
+[linux](/content/2025-12-17%20linux.md) (en_US), [emacs](/content/2025-12-21%20emacs.md) (en_US), [softwares make me boring](/content/2026-01-12%20boring.md) (zh_CN)
 
 uses this (uses this concept: <https://usesthis.com/>):
 
