@@ -1,12 +1,6 @@
 # Ksfour
 
-![Tachibana Nozomi, still in uniform, leans back at her desk and smiles contentedly.](img/nozomi.jpg)
-
-*“This time of day is especially beautiful.” — Tachibana Nozomi, Blue Archive*
-
----
-
-<img width="960" height="540" alt="Always-Has-Been" src="https://github.com/user-attachments/assets/e7b236cb-94ff-4834-aae8-e50d225dc585" />
+![Wait, it's all Anglocentric? Always has been.](img/Always-Has-Been.png)
 
 ---
 
