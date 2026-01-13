@@ -6,6 +6,10 @@
 
 ---
 
+<img width="960" height="540" alt="Always-Has-Been" src="https://github.com/user-attachments/assets/e7b236cb-94ff-4834-aae8-e50d225dc585" />
+
+---
+
 ## hi
 
 i live on my computer, but these are the only things i take seriously:
